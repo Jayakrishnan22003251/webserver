@@ -40,6 +40,8 @@ content='''
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
 <h2>3. React </h2>
+<h2>4. Express </h2>
+<h2>5. Spring </h2>
 </body>
 </html>
 class MyServer(BaseHTTPRequestHandler):
@@ -56,7 +58,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Screenshot 2023-03-25 135327](https://user-images.githubusercontent.com/120232371/227706314-db38cf86-e9f1-4168-8f16-ae10fd9be90f.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/120232371/230634781-e69f5026-50e2-46e7-b51e-58d45aac04ac.png)
+
 
 ## RESULT:
 The program is executed succesfully
