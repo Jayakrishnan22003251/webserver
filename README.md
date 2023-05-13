@@ -58,6 +58,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![server output](https://github.com/Jayakrishnan22003251/webserver/assets/120232371/2131a76b-1a0c-42b6-a29b-394aa8d0b407)
+
 ![Screenshot (14)](https://user-images.githubusercontent.com/120232371/230634781-e69f5026-50e2-46e7-b51e-58d45aac04ac.png)
 
 
